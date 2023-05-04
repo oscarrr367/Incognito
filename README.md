@@ -42,7 +42,6 @@ You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here
     <br>
     <br>
     <a href="https://alienhub.xyz/?utm_source=incog_gh&utm_medium=amethystnetwork">
-      <img src="https://alienhub.xyz/alien1.gif" width="450" height="150"></img>
     </a>
 </div>
 
